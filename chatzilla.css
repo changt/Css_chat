@@ -1,0 +1,20 @@
+ h1{
+     font-size: 3em;
+     font-weight:bold;
+     font-style: italic;
+     text-align: center;
+ }
+
+#chatTitle
+{
+    color: red;
+    font-size:4em;
+}
+
+.username
+{
+    color:#9ed8f0;
+    font-weight:bold;
+    
+    
+}
